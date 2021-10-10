@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ap3ra
-- 👀 I’m interested in computer science
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning C & Python
 
 
